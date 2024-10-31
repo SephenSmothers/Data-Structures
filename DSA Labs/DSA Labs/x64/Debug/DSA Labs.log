@@ -1,0 +1,10 @@
+﻿  TestHarness.cpp
+C:\Users\sephe\Desktop\FS Classes\Programing\DSALabHandouts\DSALabs\DSA Labs\DSA Labs\Huffman.h(395,27): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+  (compiling source file 'TestFiles/TestHarness.cpp')
+  
+  UnitTests_Lab5.cpp
+  Generating Code...
+C:\Users\sephe\Desktop\FS Classes\Programing\DSALabHandouts\DSALabs\DSA Labs\DSA Labs\Dictionary.h(214,1): warning C4715: 'Dictionary<float,float>::Find': not all control paths return a value
+  DSA Labs.vcxproj -> C:\Users\sephe\Desktop\FS Classes\Programing\DSALabHandouts\DSALabs\DSA Labs\x64\Debug\DSA Labs.exe
+  0 File(s) copied
+  0 File(s) copied
